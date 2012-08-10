@@ -40,11 +40,12 @@ syn keyword pgsqlKeyword	 notify no new null next
 syn keyword pgsqlKeyword	 or operator outer order old on out open
 syn keyword pgsqlKeyword	 prepare plpgsql primary password primary privilege procedure partial prepared
 syn keyword pgsqlKeyword	 partition preserve perform
+syn keyword pgsqlKeyword	 query
 syn keyword pgsqlKeyword	 role replace reindex release reset revoke rollback references row rows rule restrict
 syn keyword pgsqlKeyword	 returns return 
 syn keyword pgsqlKeyword	 select set strict schema sequence savepoint simple system stable setof
 syn keyword pgsqlKeyword	 truncate to tranaction trigger table tables temp temporary tablespace type
-syn keyword pgsqlKeyword	 update unique unlisten using
+syn keyword pgsqlKeyword	 update unique unlisten using union
 syn keyword pgsqlKeyword	 verbose view values varying vacuum
 syn keyword pgsqlKeyword	 where with
 
