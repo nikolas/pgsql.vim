@@ -28,7 +28,7 @@ syn keyword pgsqlKeyword	 cast cascade character check column columns constraint
 syn keyword pgsqlKeyword	 database domain databases default delete distinct drop declare deallocate desc
 syn keyword pgsqlKeyword	 deferrable deferred defaults do diagnostics
 syn keyword pgsqlKeyword	 explain end exists execute exclusion found exception except each exit
-syn keyword pgsqlKeyword	 function foreign from full fetch force for
+syn keyword pgsqlKeyword	 function foreign from full fetch force for foreach
 syn keyword pgsqlKeyword	 group grant global get
 syn keyword pgsqlKeyword	 having 
 syn keyword pgsqlKeyword	 index into immutable inner initially immediate inherits instead insert in if
